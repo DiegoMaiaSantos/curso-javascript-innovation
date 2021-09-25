@@ -23,6 +23,10 @@ function load(){
     alert('Página carregada!')
 }
 
+function funcaoChange(elemento){
+    console.log(elemento.value)
+}
+
 /*
 function soma(n1, n2){
     return n1 + n2;
