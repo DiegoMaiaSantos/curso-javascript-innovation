@@ -19,6 +19,10 @@ function voltar(elemento){
     //document.getElementById('mousemove').innerHTML = 'Passe o mouse aqui!'
 }
 
+function load(){
+    alert('Página carregada!')
+}
+
 /*
 function soma(n1, n2){
     return n1 + n2;
